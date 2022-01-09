@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alli-Bravo
 - 👀 I’m interested in Amazon Web Services
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on cloud computing technologies
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on Cloud Computing Technologies
 - 📫 How to reach me @ mwizerwaallidieudonne@gmail.com
 
 <!---
